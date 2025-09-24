@@ -4,3 +4,5 @@ console.log(x)
 
 const name = "Maruf";
 const namee = "Maruf";
+
+// AWS lambda ecosystem everything what should to know
