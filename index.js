@@ -3,3 +3,4 @@ const x = 10
 console.log(x)
 
 const name = "Maruf";
+const namee = "Maruf";
